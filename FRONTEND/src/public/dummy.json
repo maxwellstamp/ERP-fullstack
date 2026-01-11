@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "ClientName": "Alpha Corp",
+    "serviceStartDate": "2023-04-15",
+    "email": "contact@alphacorp.com"
+  },
+  {
+    "id": 2,
+    "ClientName": "Beta Solutions",
+    "serviceStartDate": "2022-11-05",
+    "email": "info@betasolutions.io"
+  },
+  {
+    "id": 3,
+    "ClientName": "Gamma Industries",
+    "serviceStartDate": "2021-07-20",
+    "email": "support@gammaind.com"
+  },
+  {
+    "id": 4,
+    "ClientName": "Delta Enterprises",
+    "serviceStartDate": "2023-01-10",
+    "email": "sales@deltaent.com"
+  },
+  {
+    "id": 5,
+    "ClientName": "Epsilon Technologies",
+    "serviceStartDate": "2020-09-28",
+    "email": "contact@epsilontech.com"
+  }
+]
